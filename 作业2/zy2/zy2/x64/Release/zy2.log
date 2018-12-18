@@ -1,0 +1,10 @@
+﻿  zy2.cpp
+zy2.cpp(48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+zy2.cpp(77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  41 of 160 functions (25.6%) were compiled, the rest were copied from previous compilation.
+    37 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  zy2.vcxproj -> C:\Users\L\Desktop\瓜大研究生课程\图像工程_瓜大\0 作业\1_20181127\作业2\zy2\x64\Release\zy2.exe
+  zy2.vcxproj -> C:\Users\L\Desktop\瓜大研究生课程\图像工程_瓜大\0 作业\1_20181127\作业2\zy2\x64\Release\zy2.pdb (Full PDB)
